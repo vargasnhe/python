@@ -26,8 +26,8 @@ gabriela.estatura= 1.60
 print(eduardo.estatura)
 print(gabriela.estatura)
 
-
-resultado= eduardo.saludar_cordialmente("Andres")
+eduardo.saludar_cordialmente("Gurrumino")
+resultado = eduardo.saludar_cordialmente("Andres")
 # eduardo.saludar()
 # gabriela.saludar()
-print (resultado)
+print(resultado)
