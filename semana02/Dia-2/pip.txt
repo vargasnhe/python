@@ -3,3 +3,7 @@ pip install NOMBRE_LIBRERIA
 formas de levantar el entorno
 windows entorno_flask/Scripts/activate
 en bash : source entorno_flask/Scripts/activate
+
+ls
+
+ python 1-inicios-flask.py 
